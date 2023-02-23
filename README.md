@@ -23,3 +23,5 @@ The application is invoked by using the following command:
 ```bash
 node index.js
 ```
+## Snapshot
+![Capture](https://user-images.githubusercontent.com/112564483/220976480-b04d3381-e4d9-4a9f-a413-4a6502cfb979.JPG)
